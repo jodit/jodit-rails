@@ -1,5 +1,5 @@
 module Jodit
   module Version
-    EDITOR = "2.3.6"
+    EDITOR = "3.1.3"
   end
 end

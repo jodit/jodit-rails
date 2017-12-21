@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name          = "jodit"
   s.version       = Jodit::Version::EDITOR
   s.authors       = ["Wentao Liu"]
-  s.email         = ["jodit@live.com"]
+  s.email         = ["chupurnov@gmail.com"]
   s.license       = 'MIT'
   s.homepage      = "https://github.com/jodit/jodit-rails"
   s.summary       = "A simple editor designed by xdan https://xdsoft.net/jodit/"
