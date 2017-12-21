@@ -1,0 +1,12 @@
+{
+  "name": "jodit-rails",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jodit/jodit-rails",
+  "authors": [
+    "Chupurnov Valeriy <chupurnov@gmail.com>"
+  ],
+  "description": "Rails assets wrapper for https://github.com/xdan/jodit",
+  "dependencies": {
+    "jodit": "^3.1.0"
+  }
+}
